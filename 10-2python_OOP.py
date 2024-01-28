@@ -31,7 +31,7 @@ Waston.eat()
 class dog:
     def __init__(self):
         self.lag = 4
-    @property#讓以下method唯讀，不能修改
+    # @property讓以下method唯讀，不能修改
     def eat(self):
         print("snoop said: hi")
 snoop = dog()
