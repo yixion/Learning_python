@@ -80,4 +80,6 @@ new_string = 'Hee'
 print(new_string.isupper())
 print(new_string.islower())
 print(new_string.istitle())
+#why we need to know how to deel with string
+#https://nadeauinnovations.com/post/2020/11/python-tricks-replace-all-non-alphanumeric-characters-in-a-string/
 
