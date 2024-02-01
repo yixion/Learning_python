@@ -31,9 +31,10 @@
 #8.將字串字首變成大寫
 string1 = "hello world!"
 print(string1.capitalize())
-#9.將字串全部轉成小寫
+#將字串全部轉成大寫
 string2 = string1.upper()
 print(string2)
+#將字串全部轉成小寫
 string2 = string2.casefold()
 print(string2)
 #將序列結合成字串:str.join(itr)
